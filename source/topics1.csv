@@ -1,0 +1,22 @@
+Title,Venue,Year,URL,Tag
+Theory-guided Data Science: A New Paradigm for Scientific Discovery from Data,IEEE TKDE,2017, https://arxiv.org/abs/1612.08544,physics4ml
+Physics Informed Deep Learning (Part I): Data-driven Solutions of Nonlinear Partial Differential Equations, arXiv,2017, https://arxiv.org/abs/1711.10561,physics4ml
+Physics Informed Deep Learning (Part II): Data-driven Discovery of Nonlinear Partial Differential Equations, arXiv,2017, https://arxiv.org/abs/1711.10566,physics4ml
+Learning Neural PDE Solvers with Convergence Guarantees,ICLR,2019,https://arxiv.org/abs/1906.01200,ml4physics
+Neural Ordinary Differential Equations,NeurIPS,2018,https://papers.nips.cc/paper/7892-neural-ordinary-differential-equations,ml4physics
+Machine learning and the physical sciences,,,https://arxiv.org/pdf/1903.10563.pdf,physics4ml
+Physics-guided Neural Networks (PGNN): An Application in Lake Temperature Modeling,arXiv,2018,https://arxiv.org/abs/1710.11431,physics4ml
+AI Feynman: a Physics-Inspired Method for Symbolic Regression,arXiv,2019,https://arxiv.org/pdf/1905.11481.pdf,physics4ml
+Deep learning for universal linear embeddings of nonlinear dynamics,Nature Communications,2018,https://www.nature.com/articles/s41467-018-07210-0,ml4physics
+Machine learning of linear differential equations using Gaussian processes,Journal of Computational Physics,2018,https://arxiv.org/pdf/1701.02440.pdf,ml4physics
+Hidden Physics Models: Machine Learning of Nonlinear Partial Differential Equations,arXiv,2017,https://arxiv.org/pdf/1708.00588.pdf,ml4physics
+Gaussian Processes,,2018,http://krasserm.github.io/2018/03/19/gaussian-processes/,tutorial
+Gaussian Processes for Regression: A Quick Introduction,,2008,https://www.robots.ox.ac.uk/~mebden/reports/GPtutorial.pdf,tutorial
+Solving Ordinary Differential Equations,,,https://mathinsight.org/ordinary_differential_equation_introduction,tutorial
+Solving partial differential equations,,,http://hplgit.github.io/Programming-for-Computations/pub/p4c/._p4c-bootstrap-Matlab023.html,tutorial
+Discovering governing equations from data by sparse identification of nonlinear dynamical systems,PNAS,,https://www.pnas.org/content/113/15/3932,ml4physics
+Convolutional neural networks for steady flow approximation,KDD,2018,https://www.kdd.org/kdd2016/papers/files/adp1175-guoA.pdf,ml4physics
+Visual Causal Feature Learning,UAI,2015,https://arxiv.org/pdf/1412.2309.pdf,physics4ml
+Accelerating Eulerian Fluid Simulation With Convolutional Networks,ICML,2017,https://arxiv.org/abs/1607.03597,ml4physics
+Machine learning strategies for systems with invariance properties,Journal of Computational Physics,2016,https://www.sciencedirect.com/science/article/pii/S0021999116301309,physics4ml
+A Comprehensive Physics-Informed Machine Learning Framework for Predictive Turbulence Modeling,arXiv,2018,https://arxiv.org/pdf/1701.07102.pdf,physics4ml
