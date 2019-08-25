@@ -1,0 +1,21 @@
+1,`Theory-guided Data Science: A New Paradigm for Scientific Discovery from Data <https://arxiv.org/abs/1612.08544>`_,physics4ml
+2,`Physics Informed Deep Learning (Part I): Data-driven Solutions of Nonlinear Partial Differential Equations <https://arxiv.org/abs/1711.10561>`_,physics4ml
+3,`Physics Informed Deep Learning (Part II): Data-driven Discovery of Nonlinear Partial Differential Equations <https://arxiv.org/abs/1711.10566>`_,physics4ml
+4,`Learning Neural PDE Solvers with Convergence Guarantees <https://arxiv.org/abs/1906.01200>`_,ml4physics
+5,`Neural Ordinary Differential Equations <https://papers.nips.cc/paper/7892-neural-ordinary-differential-equations>`_,ml4physics
+6,`Machine learning and the physical sciences <https://arxiv.org/pdf/1903.10563.pdf>`_,physics4ml
+7,`Physics-guided Neural Networks (PGNN): An Application in Lake Temperature Modeling <https://arxiv.org/abs/1710.11431>`_,physics4ml
+8,`AI Feynman: a Physics-Inspired Method for Symbolic Regression <https://arxiv.org/pdf/1905.11481.pdf>`_,physics4ml
+9,`Deep learning for universal linear embeddings of nonlinear dynamics <https://www.nature.com/articles/s41467-018-07210-0>`_,ml4physics
+10,`Machine learning of linear differential equations using Gaussian processes <https://arxiv.org/pdf/1701.02440.pdf>`_,ml4physics
+11,`Hidden Physics Models: Machine Learning of Nonlinear Partial Differential Equations <https://arxiv.org/pdf/1708.00588.pdf>`_,ml4physics
+12,`Gaussian Processes <http://krasserm.github.io/2018/03/19/gaussian-processes/>`_,tutorial
+13,`Gaussian Processes for Regression: A Quick Introduction <https://www.robots.ox.ac.uk/~mebden/reports/GPtutorial.pdf>`_,tutorial
+14,`Solving Ordinary Differential Equations <https://mathinsight.org/ordinary_differential_equation_introduction>`_,tutorial
+15,`Solving partial differential equations <http://hplgit.github.io/Programming-for-Computations/pub/p4c/._p4c-bootstrap-Matlab023.html>`_,tutorial
+16,`Discovering governing equations from data by sparse identification of nonlinear dynamical systems <https://www.pnas.org/content/113/15/3932>`_,ml4physics
+17,`Convolutional neural networks for steady flow approximation <https://www.kdd.org/kdd2016/papers/files/adp1175-guoA.pdf>`_,ml4physics
+18,`Visual Causal Feature Learning <https://arxiv.org/pdf/1412.2309.pdf>`_,physics4ml
+19,`Accelerating Eulerian Fluid Simulation With Convolutional Networks <https://arxiv.org/abs/1607.03597>`_,ml4physics
+20,`Machine learning strategies for systems with invariance properties <https://www.sciencedirect.com/science/article/pii/S0021999116301309>`_,physics4ml
+21,`A Comprehensive Physics-Informed Machine Learning Framework for Predictive Turbulence Modeling <https://arxiv.org/pdf/1701.07102.pdf>`_,physics4ml
