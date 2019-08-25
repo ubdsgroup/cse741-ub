@@ -1,2 +1,2 @@
 # cse741-ub
-Website for Machine Learning and Big Data Seminar course at University at Buffalo
+Website for Machine Learning and Physics Seminar course at University at Buffalo
