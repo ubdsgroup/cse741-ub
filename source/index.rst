@@ -66,6 +66,12 @@ Project
 -------
 More details will be provided soon.
 
+Resources and Links
+-------------------
+* `UB Box Folder for feedback submission <https://buffalo.app.box.com/folder/52956982460>`_ You will receive an invitation from the instructor when the semester starts
+* `AWS resources for UB Students <https://www.buffalo.edu/ubit/service-guides/teaching-technology/aws.html>`_
+* `Center for Computational Research (CCR) resources for UB Students <http://www.buffalo.edu/ccr/support/ccr-help/accounts.html>`_
+
 Accessibility Services and Special Needs
 -----------------------------------------
 If you have any disability which requires reasonable accommodations to enable you to participate in this course, please contact the Office of Accessibility Resources in 60 Capen Hall, 716-645-2608 and also the instructor of this course during the first week of class. The office will provide you with information and review appropriate arrangements for reasonable accommodations, which can be found on the web at: http://www.buffalo.edu/studentlife/who-we-are/departments/accessibility.html.
