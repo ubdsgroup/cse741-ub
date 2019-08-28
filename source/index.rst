@@ -28,7 +28,7 @@ Instructors
 
 Meeting times and locations
 ----------------------------
-* Wednesdays 10.00 AM - 12.20 PM, 338A Davis Hall.
+* Wednesdays 10.00 AM - 12.20 PM, 352 `Millard Fillmore Academic Center <https://www.google.com/maps/place/Millard+Fillmore+Academic+Center/@43.0090895,-78.7843923,15z/data=!4m5!3m4!1s0x0:0xe55a279593a061ba!8m2!3d43.0090895!4d-78.7843923>`_.
 * Chandola Office Hours: Tuesdays, 1.00 PM - 3.00 PM, 213 Capen Hall.
 
 Prerequisites
