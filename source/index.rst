@@ -14,6 +14,12 @@ Fall Semester 2019
    :maxdepth: 2
    :caption: Contents:
 
+.. raw:: html
+
+    <style> .red {color:red} </style>
+    <style> .blue {color:blue} </style>
+    <style> .green {color:green} </style>
+
 
 Instructors
 ------------
@@ -22,7 +28,7 @@ Instructors
 
 Meeting times and locations
 ----------------------------
-* Wednesdays 10.00 AM - 12.30 PM, TBD.
+* Wednesdays 10.00 AM - 12.20 PM, 338A Davis Hall.
 * Chandola Office Hours: Tuesdays, 1.00 PM - 3.00 PM, 213 Capen Hall.
 
 Prerequisites
@@ -53,6 +59,10 @@ This course is only for a Satisfactory/Non-satisfactory credit. You can sign up 
 
 Reading list
 ---------------
+.. role:: red
+.. role:: blue 
+.. role:: green 
+
 .. csv-table:: 
    :file: topics.csv
    :header: "Number", "Paper", "Type"
