@@ -10,7 +10,7 @@
 10,`Machine learning of linear differential equations using Gaussian processes <https://arxiv.org/pdf/1701.02440.pdf>`_,:green:`ml4physics`
 11,`Hidden Physics Models: Machine Learning of Nonlinear Partial Differential Equations <https://arxiv.org/pdf/1708.00588.pdf>`_,:green:`ml4physics`
 12,`Gaussian Processes <http://krasserm.github.io/2018/03/19/gaussian-processes/>`_,:blue:`tutorial`
-13,`Gaussian Processes for Regression: A Quick Introduction <https://www.robots.ox.ac.uk/~mebden/reports/GP:blue:`tutorial`.pdf>`_,:blue:`tutorial`
+13,`Gaussian Processes for Regression: A Quick Introduction <https://www.robots.ox.ac.uk/~mebden/reports/GPtutorial.pdf>`_,:blue:`tutorial`
 14,`Solving Ordinary Differential Equations <https://mathinsight.org/ordinary_differential_equation_introduction>`_,:blue:`tutorial`
 15,`Solving partial differential equations <http://hplgit.github.io/Programming-for-Computations/pub/p4c/._p4c-bootstrap-Matlab023.html>`_,:blue:`tutorial`
 16,`Discovering governing equations from data by sparse identification of nonlinear dynamical systems <https://www.pnas.org/content/113/15/3932>`_,:green:`ml4physics`
@@ -21,4 +21,4 @@
 21,`A Comprehensive Physics-Informed Machine Learning Framework for Predictive Turbulence Modeling <https://arxiv.org/pdf/1701.07102.pdf>`_,:red:`physics4ml`
 22,`Toward an AI Physicist for Unsupervised Learning <https://arxiv.org/abs/1810.10525>`_,:green:`ml4physics`
 23,`The Ising Model <https://www.math.arizona.edu/~tgk/541/chap1.pdf>`_,:blue:`tutorial`
-24,`Deep Learning the Ising Model Near Criticality <http://www.jmlr.org/papers/volume18/17-527/17-527.pdf>_`,:green:`ml4physics`
+24,`Deep Learning the Ising Model Near Criticality <http://www.jmlr.org/papers/volume18/17-527/17-527.pdf>`_,:green:`ml4physics`
