@@ -35,6 +35,12 @@ Prerequisites
 ---------------
 CSE 574 - Introduction to Machine Learning or equivalent (*This will be strictly enforced*)
 
+Piazza Page
+------------
+`https://piazza.com/class/k02huzljak83nh <https://piazza.com/class/k02huzljak83nh>`_
+
+* We will use Piazza as the primary medium for communication.
+
 Description
 ------------
 Machine learning (ML) has become an invaluable tool for almost every sector in the world, including business, finance, environment, technology, government, and scientific research. New powerful ML based tools for scientists, allow them to extract essential information from large amounts of data, either from experiments or simulations. Significant steps forward in every branch of the physical sciences could be made by embracing, developing and applying the methods of machine learning to interrogate high-dimensional complex data in a way that has not been possible before.
