@@ -71,8 +71,8 @@ Reading list
 
 .. csv-table:: 
    :file: topics.csv
-   :header: "Number", "Paper", "Type"
-   :widths: 5, 20, 10
+   :header: "Number", "Paper", "Type", "Date", "Presenter"
+   :widths: 5, 20, 10, 10, 10
 
 Submitting paper feedback 
 -------------------------
