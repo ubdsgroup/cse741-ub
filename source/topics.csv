@@ -3,7 +3,7 @@
 3,`Gaussian Processes <http://krasserm.github.io/2018/03/19aussian-processes/>`_,:blue:`tutorial`,Sept 11,``aelazar``
 4,`Machine learning of linear differential equations using Gaussian processes <https://arxiv.org/pdf/1701.02440.pdf>`_,:green:`ml4physics`,Sept 11,``chandola``
 5,`Physics-guided Neural Networks (PGNN): An Application in Lake Temperature Modeling <https://arxiv.org/abs/1710.11431>`_,:red:`physics4ml`,Sept 18,``aelazar``
-6,`Solving Ordinary Differential Equations <https://mathinsight.org/ordinary_differential_equation_introduction>`_,:blue:`tutorial`,Sept 18,``hwang79/Jtmalina``
+6,`Solving Ordinary Differential Equations <https://mathinsight.org/ordinary_differential_equation_introduction>`_,:blue:`tutorial`,Sept 18,``Jtmalina``
 7,`Neural Ordinary Differential Equations <https://papers.nips.cc/paper/7892-neural-ordinary-differential-equations>`_,:green:`ml4physics`,Sept 25,``hwang79``
 8,`Solving partial differential equations <http://hplgit.github.io/Programming-for-Computations/pub/p4c/._p4c-bootstrap-Matlab023.html>`_,:blue:`tutorial`,Sept 25,``binganfe``
 9,`Physics Informed Deep Learning (Part I): Data-driven Solutions of Nonlinear Partial Differential Equations <https://arxiv.org/abs/1711.10561>`_,:red:`physics4ml`,Oct 2,``rs268``
@@ -20,5 +20,5 @@
 20,`Discovering governing equations from data by sparse identification of nonlinear dynamical systems <https://www.pnas.org/content/113/15/3932>`_,:green:`ml4physics`,Nov 6,``chandola``
 21,`Deep learning for universal linear embeddings of nonlinear dynamics <https://www.nature.com/articles/s41467-018-07210-0>`_,:green:`ml4physics`,Nov 13,``chandola``
 22,`Direct mapping from LES resolved scales to filtered-flame generated manifolds using convolutional neural networks <https://www.sciencedirect.com/science/article/pii/S0010218019303773>`_,:green:`ml4physics`,Nov 13,``chandola``
-23,`The Ising Model <https://www.math.arizona.edu/~tgk/541/chap1.pdf>`_,:blue:`tutorial`,Nov 20,``chandola``
+23,`The Ising Model <https://www.math.arizona.edu/~tgk/541/chap1.pdf>`_,:blue:`tutorial`,Nov 20,``hwang79``
 24,`Deep Learning the Ising Model Near Criticality <http://www.jmlr.org/papers/volume18/17-527/17-527.pdf>`_,:green:`ml4physics`,Nov 20,``chandola``
