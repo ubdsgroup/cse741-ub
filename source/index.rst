@@ -78,7 +78,8 @@ Submitting paper feedback
 -------------------------
 Every student will submit a short report on the papers discussed every lecture. This will be due by Tuesday night of the week those papers are discussed in class. The report should include key strengths and weaknesses that you perceived in the paper. Additional comments are welcome but not required. We will use UB Box to manage the feedback submission. More details will be provided soon.
 
-> The UB Box folder is here - `https://buffalo.app.box.com/folder/52956982460 <https://buffalo.app.box.com/folder/52956982460>`_
+.. seealso::
+   The UB Box folder is here - `https://buffalo.app.box.com/folder/52956982460 <https://buffalo.app.box.com/folder/52956982460>`_
 
 Project
 -------
