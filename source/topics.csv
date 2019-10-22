@@ -18,7 +18,7 @@
 18,`Machine learning strategies for systems with invariance properties <https://www.sciencedirect.com/science/article/pii/S0021999116301309>`_,:red:`physics4ml`,Oct 30,``binganfe``
 19,`A Comprehensive Physics-Informed Machine Learning Framework for Predictive Turbulence Modeling <https://arxiv.org/pdf/1701.07102.pdf>`_,:red:`physics4ml`,Nov 6,``chandola``
 20,`Discovering governing equations from data by sparse identification of nonlinear dynamical systems <https://www.pnas.org/content/113/15/3932>`_,:green:`ml4physics`,Nov 6,``harshraw``
-21,`Deep learning for universal linear embeddings of nonlinear dynamics <https://www.nature.com/articles/s41467-018-07210-0>`_,:green:`ml4physics`,Nov 13,``chandola``
-22,`Direct mapping from LES resolved scales to filtered-flame generated manifolds using convolutional neural networks <https://www.sciencedirect.com/science/article/pii/S0010218019303773>`_,:green:`ml4physics`,Nov 13,``chandola``
+21,`Guide for finding CFD <http://www.montana.edu/mowkes/research/source-codes/GuideToCFD.pdf>`_,:blue:`tutorial`,Nov 13,``pvij``
+22,`Convolutional neural networks for steady flow approximation <https://www.kdd.org/kdd2016/papers/files/adp1175-guoA.pdf>`_,:green:`ml4physics`,Nov 13,``pvij``
 23,`The Ising Model <https://www.math.arizona.edu/~tgk/541/chap1.pdf>`_,:blue:`tutorial`,Nov 20,``hwang79``
 24,`Deep Learning the Ising Model Near Criticality <http://www.jmlr.org/papers/volume18/17-527/17-527.pdf>`_,:green:`ml4physics`,Nov 20,``chandola``
