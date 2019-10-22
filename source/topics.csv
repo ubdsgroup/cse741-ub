@@ -12,13 +12,12 @@
 12,`AI Feynman: a Physics-Inspired Method for Symbolic Regression <https://arxiv.org/pdf/1905.11481.pdf>`_,:red:`physics4ml`,Oct 9,``jtmalina``
 13,`Toward an AI Physicist for Unsupervised Learning <https://arxiv.org/abs/1810.10525>`_,:green:`ml4physics`,Oct 16,``Jtmalina``
 14,`Hidden Physics Models: Machine Learning of Nonlinear Partial Differential Equations <https://arxiv.org/pdf/1708.00588.pdf>`_,:green:`ml4physics`,Oct 16,``vbhavsar``
-15,`Convolutional neural networks for steady flow approximation <https://www.kdd.org/kdd2016/papers/files/adp1175-guoA.pdf>`_,:green:`ml4physics`,Oct 23,``chandola``
-16,`Visual Causal Feature Learning <https://arxiv.org/pdf/1412.2309.pdf>`_,:red:`physics4ml`,Oct 23,``wzhang52``
-17,`Accelerating Eulerian Fluid Simulation With Convolutional Networks <https://arxiv.org/abs/1607.03597>`_,:green:`ml4physics`,Oct 30,``wzhang52``
-18,`Machine learning strategies for systems with invariance properties <https://www.sciencedirect.com/science/article/pii/S0021999116301309>`_,:red:`physics4ml`,Oct 30,``binganfe``
-19,`A Comprehensive Physics-Informed Machine Learning Framework for Predictive Turbulence Modeling <https://arxiv.org/pdf/1701.07102.pdf>`_,:red:`physics4ml`,Nov 6,``chandola``
-20,`Discovering governing equations from data by sparse identification of nonlinear dynamical systems <https://www.pnas.org/content/113/15/3932>`_,:green:`ml4physics`,Nov 6,``harshraw``
-21,`Guide for finding CFD <http://www.montana.edu/mowkes/research/source-codes/GuideToCFD.pdf>`_,:blue:`tutorial`,Nov 13,``pvij``
-22,`Convolutional neural networks for steady flow approximation <https://www.kdd.org/kdd2016/papers/files/adp1175-guoA.pdf>`_,:green:`ml4physics`,Nov 13,``pvij``
-23,`The Ising Model <https://www.math.arizona.edu/~tgk/541/chap1.pdf>`_,:blue:`tutorial`,Nov 20,``hwang79``
-24,`Deep Learning the Ising Model Near Criticality <http://www.jmlr.org/papers/volume18/17-527/17-527.pdf>`_,:green:`ml4physics`,Nov 20,``chandola``
+15,`Visual Causal Feature Learning <https://arxiv.org/pdf/1412.2309.pdf>`_,:red:`physics4ml`,Oct 23,``wzhang52``
+16,`Accelerating Eulerian Fluid Simulation With Convolutional Networks <https://arxiv.org/abs/1607.03597>`_,:green:`ml4physics`,Oct 30,``wzhang52``
+17,`Machine learning strategies for systems with invariance properties <https://www.sciencedirect.com/science/article/pii/S0021999116301309>`_,:red:`physics4ml`,Oct 30,``binganfe``
+18,`A Comprehensive Physics-Informed Machine Learning Framework for Predictive Turbulence Modeling <https://arxiv.org/pdf/1701.07102.pdf>`_,:red:`physics4ml`,Nov 6,``chandola``
+19,`Discovering governing equations from data by sparse identification of nonlinear dynamical systems <https://www.pnas.org/content/113/15/3932>`_,:green:`ml4physics`,Nov 6,``harshraw``
+20,`Guide for finding CFD <http://www.montana.edu/mowkes/research/source-codes/GuideToCFD.pdf>`_,:blue:`tutorial`,Nov 13,``pvij``
+21,`Convolutional neural networks for steady flow approximation <https://www.kdd.org/kdd2016/papers/files/adp1175-guoA.pdf>`_,:green:`ml4physics`,Nov 13,``pvij``
+22,`The Ising Model <https://www.math.arizona.edu/~tgk/541/chap1.pdf>`_,:blue:`tutorial`,Nov 20,``hwang79``
+23,`Deep Learning the Ising Model Near Criticality <http://www.jmlr.org/papers/volume18/17-527/17-527.pdf>`_,:green:`ml4physics`,Nov 20,``chandola``
