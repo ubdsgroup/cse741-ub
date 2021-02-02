@@ -8,7 +8,7 @@ Seminar - Machine Learning and Physics (CSE741)
 
 `Computer Science and Engineering <http://www.cse.buffalo.edu/>`_, University at Buffalo 
 
-Fall Semester 2019
+Spring Semester 2021
 
 .. toctree::
    :maxdepth: 2
@@ -28,8 +28,8 @@ Instructors
 
 Meeting times and locations
 ----------------------------
-* Wednesdays 10.00 AM - 12.20 PM, 212 Capen Hall (CARA Suite Conference Room)
-* Chandola Office Hours: Tuesdays, 1.00 PM - 3.00 PM, 213 Capen Hall.
+* Thursdays 5.40 PM - 7.45 PM, `Virtual on Zoom <https://buffalo.zoom.us/j/92422254046>`_
+* Chandola Office Hours: Fridays 3.00 PM - 5.00 PM, `Virtual on Zoom <https://buffalo.zoom.us/j/94867240117?pwd=NGxCNFgzcUVnYjVoalpJQkczNTNjZz09>`_
 
 Prerequisites
 ---------------
@@ -37,7 +37,7 @@ CSE 574 - Introduction to Machine Learning or equivalent (*This will be strictly
 
 Piazza Page
 ------------
-`https://piazza.com/class/k02huzljak83nh <https://piazza.com/class/k02huzljak83nh>`_
+`https://piazza.com/class/kknw0p24p301ji <https://piazza.com/class/kknw0p24p301ji>`_
 
 * We will use Piazza as the primary medium for communication.
 
@@ -59,7 +59,7 @@ Grading
 ---------
 This course is only for a Satisfactory/Non-satisfactory credit. You can sign up for 1,2, or 3 credits. To pass the course, you need to:
 
-* Present 1-2 research papers (see below for a tentative list of papers)
+* Present 2 research papers (see below for a tentative list of papers)
 * Submit a critique on every presented paper (details below)
 * A term project that builds upon concepts discussed in class (`optional for students signing up for 1 credit`)
 
@@ -76,7 +76,7 @@ Reading list
 
 Submitting paper feedback 
 -------------------------
-Every student will submit a short report on the papers discussed every lecture. This will be due by Tuesday night of the week those papers are discussed in class. The report should include key strengths and weaknesses that you perceived in the paper. Additional comments are welcome but not required. We will use UB Box to manage the feedback submission. More details will be provided soon.
+Every student will submit a short report on the papers discussed every lecture. This will be due by Wednesday night of the week those papers are discussed in class. The report should include key strengths and weaknesses that you perceived in the paper. Additional comments are welcome but not required. We will use UB Box to manage the feedback submission. More details will be provided soon.
 
 .. seealso::
    The UB Box folder is here - `https://buffalo.app.box.com/folder/52956982460 <https://buffalo.app.box.com/folder/52956982460>`_
